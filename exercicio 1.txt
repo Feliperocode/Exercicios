@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CAMPEONATO GAÚCHO 2022</title>
+<link rel="icon" type="image/x-icon" href="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2272.png&scale=crop&cquality=40&location=origin&w=80&h=80">
+<style>
+ tr:nth-child(odd) {background-color: #ffffffb4;}
+ tr:nth-child(even) {background-color: #f3f3f3;}
+ th {
+  background-color: white;
+  color: black;
+   text-align:center;
+   border-style:  solid solid solid hidden;
+}
+table {
+ border-collapse: collapse;
+ width: 70%;
+
+}
+ td {
+ height:40px;
+   border: 0px solid #ddd;
+   text-align:center;
+ }
+ img {
+ width:20px;height:20px;
+ }
+ #left{
+     float:left;
+}
+#right{
+     float:right;
+}
+</style>
+</head>
+<body>
+<h1 style="color:red;text-align:center;">CAMPEONATO GAÚCHO 2022</h1>
+<span id="left" style="font-size:300%;">TABELA</span>
+<span id="right" style="font-size:300%;">ARTILHARIA </span> 
+<br>
+<br>
+<p id="right"><br><b> 1.Edgar Alemâo,5 gols.</b><br><br> 2. Ronaldinho Gramadense, 3 gols. <br><br> 3.Alê Menezes, 2 gols.</p> 
+
+<br>
+<table border="1">
+<tr>
+<th colspan="3" style=" border-left-style: solid;">classificaçao</th>
+<th>p</th>
+<th>j</th>
+<th>v</th>
+<th>e</th>
+<th>d</th>
+<th>gp</th>
+<th>gc</th>
+<th>sg</th>
+<th>%</th>
+</tr>
+
+
+<tr>
+<td>1</td>
+<td><img src="https://logodetimes.com/times/guarany-futebol-clube-rs/logo-guarany-futebol-clube-rs-256.png"/img></td>
+<td style="text-align: left;">guarany de bagê</td>
+<td>15</td>
+<td>5</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td>35</td>
+<td>3</td>
+<td>32</td>
+<td>100</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td><img src="https://img1.gratispng.com/20180531/quc/kisspng-grmio-esportivo-sapucaiense-grmio-esportivo-br-bar-chart-5b0fc27b41f922.4608847215277594832702.jpg"/img></td>
+<td style="text-align: left;">Sapucaiense</td>
+<td>7</td>
+<td>6</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
+<td>12</td>
+<td>8</td>
+<td>4</td>
+<td>46</td>
+
+</tr>
+
+
+<tr>
+<td>3</td>
+<td><img src="https://upload.wikimedia.org/wikipedia/pt/1/10/FCRiograndense.png?20210608134847"/img></td>
+<td style="text-align: left;">riograndense</td>
+<td>7</td>
+<td>5</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
+<td>16</td>
+<td>12</td>
+<td>4</td>
+<td>46</td>
+
+</tr>
+
+<tr>
+<td>4 </td>
+<td><img src="https://cegramadense.com.br/wp-content/uploads/2020/03/Gramadense-1-1024x1024.png"/img></td>
+<td style="text-align: left;">gramadense</td>
+<td>0</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+<td>2</td>
+<td>15</td>
+<td>13</td>
+<td>0</td>
+
+</tr>
+
+
+
+</table>
+</body>
+</html>
